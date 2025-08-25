@@ -12,15 +12,11 @@ Responsive design
 
 Simple and clean UI
 
-Basic JavaScript functionality
-
 Technologies Used
 
 HTML5
 
-CSS3
-
-JavaScript
+TAILWIND CSS
 
 Author
 
