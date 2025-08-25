@@ -1,25 +1,23 @@
-First Project
+# First Project  
 
-A simple frontend project built with HTML and TAILWIND CSS.
-This is one of my first projects while learning web development.
+This is my first web development project created while learning **HTML, CSS, and JavaScript**.  
+The project helped me practice structuring layouts and adding interactive elements.  
 
-🚀 Live Demo
+## 🌐 Live Demo  
+👉 [Click here to view the project](https://basiq-khan.github.io/first-project/)  
 
-[Click here to view the project](https://basiq-khan.github.io/first-project/)
-Features
+## ✨ Features  
+- Modern and clean user interface  
+- Mobile responsive design  
 
-Responsive design
+## 🛠️ Built With  
+- HTML5  
+- TAILWIND CSS
 
-Simple and clean UI
+## 📌 Lessons Learned  
+- Improved understanding of responsive layouts    
+- Learned to manage files and GitHub repositories better  
 
-Technologies Used
-
-HTML5
-
-TAILWIND CSS
-
-Author
-
-👤 Basiq Khan
-
-GitHub: [Basiq-khan](https://github.com/Basiq-khan) 
+## 👤 Author  
+**Basiq Khan**  
+- [GitHub Profile](https://github.com/Basiq-khan)  
